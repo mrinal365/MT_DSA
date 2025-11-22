@@ -1,0 +1,13 @@
+{
+  "name": "mt_dsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sliding_window.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
